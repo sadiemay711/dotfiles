@@ -1,0 +1,5 @@
+#!/bin/sh
+
+clock=$(date '+%I')
+
+printf '%s %s%s \n' "$(date '+%b %d (%a)') $(date '+%H:%M:%S') "

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Import the colors
+color0=$(xgetres color0)
+color1=$(xgetres color3)
+color15=$(xgetres color7)
+
+dmenu_run -c -g 4 -l 20 -bw 2 -p 'Run:' -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color0"

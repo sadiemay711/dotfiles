@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# A dmenu wrapper script for system functions.
+color0=$(xgetres color0)
+color1=$(xgetres color11)
+color15=$(xgetres color7)
+
+
+
+# For non-systemd init systems.
+case "$(readlink -f /sbin/init)" in
+	*runit*) hib="sudo -A zzz" ;;
+	*openrc*) reb="sudo -A openrc-shutdown -r"; shut="sudo -A openrc-shutdown -p" ;;
+esac
+
+cmds="\
+lock		betterlockscreen -l -b
+lock and Suspend	betterlockscreen -s -b
+leave xmonad	kill -TERM $(pgrep -u $USER "\bXmonad$")
+switch hybrid 	bash optimus-manager --switch hybrid --no-confirm && kill -TERM $(pgrep -u $USER "\bspectrwm$") && nohup sudo prime-switch 
+switch intel	optimus-manager --switch intel --no-confirm 
+hibernate	betterlockscreen -l ${hib:-systemctl suspend-then-hibernate -i}
+reboot		${reb:-sudo -A reboot}
+shutdown	${shut:-sudo -A shutdown -h now}"
+display off      xset dpms force off""
+
+ choice="$(echo "$cmds" | cut -d'	' -f 1 | "dmenu" "-c" "-l" "20" "-bw" "2" "-nb" "$color0" "-nf" "$color15" "-sb" "$color1" "-sf" "$color0")"  || exit 1
+
+`echo "$cmds" | grep "^$choice	" | cut -d '	' -f2-`

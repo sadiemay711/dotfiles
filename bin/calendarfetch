@@ -1,0 +1,7 @@
+#!/bin/bash
+while true
+do
+   curl https://schoology.lsr7.org/calendar/feed/ical/1600209321/2d8b41ee47c3661a3ed9f7ea6a6e5578/ical.ics -o .calendar
+   calcurse -i .calendar 
+   sleep 1h 
+done

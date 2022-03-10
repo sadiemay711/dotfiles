@@ -1,0 +1,474 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schoology iCal API//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schoology
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20200903T045900Z
+DTEND;VALUE=DATE-TIME:20200903T055900Z
+UID:calendar-event-2606005281@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/2606005282
+SUMMARY:Schoology Navigation
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/2606005282
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210125T133000Z
+DTEND;VALUE=DATE-TIME:20210125T143000Z
+UID:calendar-event-4608798464@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4604940575
+SUMMARY:Course Syllabus Quiz
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4604940575
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210126T055900Z
+DTEND;VALUE=DATE-TIME:20210126T065900Z
+UID:calendar-event-4605802507@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4605802482
+SUMMARY:4.4 Solving Systems by Elimination HW2
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4605802482
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE:20210126
+DTEND;VALUE=DATE:20210126
+UID:calendar-event-4615488393@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/event/4615488393/profile
+SUMMARY:Cornell Notes: 1919 A Year of Turmoil
+DESCRIPTION:Due by Thursday\, January 28th at 7:30 AM. - Link: http://schoology.lsr7.org/event/4615488393/profile
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4606359756@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/course/4577490168/materials/discussion/view/4606359752
+SUMMARY:1/25 conflict discussion for kids at home
+DESCRIPTION:1. Answer the following questions: \n\nWhat would you do if your friend was harassed in the hallway?\n\nWhat would you do if someone you didn’t know was treated unfairly/called a  \nname and you witnessed it? Would it matter if you were the only one around?  \nWould you be more likely to stand up if other people did or would it matter?\n\nWhat was something happening in your society that you vehemently disagreed  \nwith?\n\nWhat is our responsibility as individuals with societal conflict?\n\n2. Then\, respond *politely* to 2 other posts by responding\, elaborating\, or  \ncommenting\, questioning on their post. - Link: http://schoology.lsr7.org/course/4577490168/materials/discussion/view/4606359752
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4606562070@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4606359769
+SUMMARY:Conflict Article Option #1- Black Lives Matter: ONLY PICK ONE ASSIGNMENT!
+DESCRIPTION:1. annotate the article attached that you picked for questions/ reactions\,  \nvocab\, and main idea \n\n2.  respond at the bottom of the article with your feelings on how the  \npeople mentioned in the article addressed societal conflict.\n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4606359769
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4606566170@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4606359776
+SUMMARY:Conflict Article Option #3- Capitol Protest: ONLY PICK ONE ASSIGNMENT!
+DESCRIPTION:1. annotate the article attached that you picked for questions/ reactions\,  \nvocab\, and main idea \n\n2.  respond at the bottom of the article with your feelings on how the  \npeople mentioned in the article addressed societal conflict.\n\n  - Link: http://schoology.lsr7.org/assignment/4606359776
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4606564108@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4606359773
+SUMMARY:Conflict Article option #2: Coronavirus Conflict. Only pick ONE ASSIGNMENT TO  \nCOMPLETE
+DESCRIPTION:1. annotate the article attached that you picked for questions/ reactions\,  \nvocab\, and main idea \n\n2.  respond at the bottom of the article with your feelings on how the  \npeople mentioned in the article addressed societal conflict.\n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4606359773
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4606571757@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4606359780
+SUMMARY:Conflict poem analysis
+DESCRIPTION:Directions on assignment\n\n  - Link: http://schoology.lsr7.org/assignment/4606359780
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210127T055900Z
+DTEND;VALUE=DATE-TIME:20210127T065900Z
+UID:calendar-event-4612850535@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4612850488
+SUMMARY:Health Triangle Notes
+DESCRIPTION:You will use this form to fill in your notes over "The Health Triangle."   \nPlease contact Coach Barrows or Ms. Argotsinger if you have missed these  \nnotes. - Link: http://schoology.lsr7.org/assignment/4612850488
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210128T055900Z
+DTEND;VALUE=DATE-TIME:20210128T065900Z
+UID:calendar-event-4602768706@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4602768676
+SUMMARY:Music for your hype
+DESCRIPTION:/\n/*Go to one of the following sites to look for music for your hype video:*\n\n 1) *YouTube Music Library*\n 2) *https://www.bensound.com [1]*\n 3) *We Video if you are using that has music as well*\n\n*Here is a video that will help you complete the assignment:*\n\n \n\n\n \n\n \n\n*When you have chosen the song\, load it into your editing software in Audio  \nTrack 1.  *\n\n*Find the BEST 60 seconds of the song and trim it to this length.  Remember  \nyour time will need to be 30\, 45 or 60 but we'll start with 60 and trim  \nfurther if needed.  *\n\n*Begin putting markers on your timeline where you think you will want to  \nchange shots.  The shortcut is M on the timeline and you'll want to listen  \nfor beat changes in the song.*\n\n*Take a screenshot of your timeline with the music at 60 seconds and markers  \non the timeline.  *\n\n*UPLOAD THIS TO SCHOOLOGY BY WEDNESDAY AT MIDNIGHT.*\n\n \n\n\n[1] https://www.bensound.com/ - Link: http://schoology.lsr7.org/assignment/4602768676
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210130T055900Z
+DTEND;VALUE=DATE-TIME:20210130T065900Z
+UID:calendar-event-4611401180@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4611401107
+SUMMARY:4.5 Real World Systems HW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4611401107
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210130T055900Z
+DTEND;VALUE=DATE-TIME:20210130T065900Z
+UID:calendar-event-4601415133@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4601375011
+SUMMARY:Lesson 12: Plant Growth Lab
+DESCRIPTION:Complete the attach Plant Growth Lab. Submit via Schoology when finished.  - Link: http://schoology.lsr7.org/assignment/4601375011
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210130T055900Z
+DTEND;VALUE=DATE-TIME:20210130T065900Z
+UID:calendar-event-4601381897@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4601374770
+SUMMARY:Lesson 7-11 Vocabulary Quiz & Elephant Notebook Check
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4601374770
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210201T055900Z
+DTEND;VALUE=DATE-TIME:20210201T065900Z
+UID:calendar-event-4613337045@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4595841752
+SUMMARY:1.1.1 Health Triangle Connections
+DESCRIPTION:Rubric for Health Triangle Assignment\n\n \n\n *** SONGS MUST BE SCHOOL APPROPRIATE***\n\n This means “clean” versions of songs. \n\nTotal Points: ___30pts_____ \n\n \n\n*Choosing 1 song for each portion of the Health Triangle: 2pts each song =  \n6pts \n\n*Song Title and Artist: 2pt \n\n*Choice Lyrics: 1pt \n\n*Connections: Points are added to each song choice. : 5pts each is the Max  \nPts.\n\n\n5\n\n4\n\n3\n\n2\n\n1\n\nDemonstrates an in-depth analysis of the song and its relation to the health  \ntriangle.  Makes insightful connections.\n\nConveys a thorough understanding of the song and its relation to the health  \ntriangle\,  Makes valid and clear connections.\n\nConveys a basic understanding of the song and its relation to the health  \ntriangle.  Clearly states connections but lacks elaboration on those  \nconnections\n\nConveys a simple and vague understanding of the connections between song  \nchoice and the health triangle\n\nProvides no comparison between song and the health triangle. Makes no  \nconnections. \n\n\nHere are 2 examples…\n\n \n\nyou will be responsible for 3. \n\n \n\n“Let Go” -Frou Frou\n\n \n\n So\, let go\, so let go\n\n Jump in \n\nOh well\, what you waiting for?\n\n It's alright\n\n 'Cause there's beauty in the breakdown \n\nSo\, let go\, yeah let go \n\nJust get in \n\nOh\, it's so amazing here \n\nIt's all right\n\n 'Cause there's beauty in the breakdown \n\n\nMental/Emotional Health\n\n \n\n I have always been a worrier\; it runs in my family I guess. I get nervous  \nabout the “what if’s” in life. What if I don’t do well\, what if  \nsomething goes wrong…. These feelings have never been overwhelming\, but  \nwhen it came to big decisions in my life\, I have felt the anxiety creep in. I  \ntried to find strength in songs such as Frou Frou’s Let Go. It was  \nespecially important songs throughout college as an attempt to take more  \nrisks. In my interpretation\, to “let go” meant that I needed to let go of  \nmy fears. To push through the anxiety to reach my dreams and goals. This song  \nalso reassured me that it’s alright to make mistakes and that “there’s  \nbeauty in the breakdown”. As I have aged I have learned to keep my anxiety  \nat bay… for the most part  I have also learned that it is okay to be  \nscared of things\, it actually motivates me now. Also I have learned that  \nthere is a beauty when things don’t work out as planned. It makes us  \nstronger and rich with experiences in the long run. \n\n\n“Just the way you are” -Bruno Mars \n\n \n\nOh you know\, you know\, you know\n\n I'd never ask you to change \n\nIf perfect's what you're searching for\n\n Then just stay the same \n\nSo don't even bother asking if you look okay \n\nYou know I'll say. \n\n \n\nWhen I see your face\n\n There's not a thing that I would change\n\n 'Cause you're amazing Just the way you are \n\n\nPhysical Health \n\n \n\n“Just the way you are” is an excellent song that relates to my idea of  \nPhysical Health. We live in a society that unfortunately places so much value  \non physical appearances. Eating disorders are claiming the lives of beautiful  \npeople each day. Americans spend millions of dollars on fad diets in an  \nattempt to fit into an image that the majority of people were never meant to  \nfit into. I understand eating healthy\, having a low BMI\, and getting exercise  \nto get healthy\, however I feel too much pressure is out there.  \nSelf-confidence should not be rooted in physical appearance. Bruno Mars  \nstates that there is “not a thing I would change” about the person he is  \nwith. He believes that they are amazing just the way they are. People need to  \nbelieve that they are beautiful the way they are. Way to sing it Bruno!!!\n\n \n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4595841752
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210201T055900Z
+DTEND;VALUE=DATE-TIME:20210201T065900Z
+UID:calendar-event-4608514314@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4608472562
+SUMMARY:Virtual / Online Course Introductory Quiz
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4608472562
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE:20210201
+DTEND;VALUE=DATE:20210201
+UID:calendar-event-4645636530@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/event/4645636530/profile
+SUMMARY:Your Health Triangle (Group A)
+DESCRIPTION:  - Link: http://schoology.lsr7.org/event/4645636530/profile
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210203T055900Z
+DTEND;VALUE=DATE-TIME:20210203T065900Z
+UID:calendar-event-4616765663@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4616765530
+SUMMARY:4.6 (Part 1) Graphing Linear Inequalities HW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4616765530
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210203T055900Z
+DTEND;VALUE=DATE-TIME:20210203T065900Z
+UID:calendar-event-4640061787@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4640045061
+SUMMARY:Narrowing down a topic
+DESCRIPTION: \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4640045061
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210203T055900Z
+DTEND;VALUE=DATE-TIME:20210203T065900Z
+UID:calendar-event-4626743174@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4626743183
+SUMMARY:SRF 1/28
+DESCRIPTION:Head over to sight-reading factory to complete your assignment.  - Link: http://schoology.lsr7.org/assignment/4626743183
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210203T055900Z
+DTEND;VALUE=DATE-TIME:20210203T065900Z
+UID:calendar-event-4640059774@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4640045058
+SUMMARY:Touchscreen Assignment
+DESCRIPTION:Read the transcript to Touchscreen and complete the table at the bottom\n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4640045058
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210204T055900Z
+DTEND;VALUE=DATE-TIME:20210204T065900Z
+UID:calendar-event-4632654657@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4595841723
+SUMMARY:Health Triangle Video Assessment
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4595841723
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE:20210205
+DTEND;VALUE=DATE:20210205
+UID:calendar-event-4640748019@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/event/4640748019/profile
+SUMMARY:Your Health Triangle (Group B)
+DESCRIPTION:  - Link: http://schoology.lsr7.org/event/4640748019/profile
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210206T055900Z
+DTEND;VALUE=DATE-TIME:20210206T065900Z
+UID:calendar-event-4637514850@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4637514836
+SUMMARY:Adobe Spark Social Media Assignment
+DESCRIPTION:*Watch the tutorial over Adobe Spark. *\n\n \n\n\n \n\n*Open this assignment [1]for all directions.*\n\n*This website [2] will make pictures transparent.*\n\n\n*Upload the final graphic to Schoology.  This is due Friday at  \nmidnight.  *\n\n\n[1] https://docs.google.com/document/d/1X7dYCVNv3RpGTriWWW-GKaOokjFMEJZUeOnfidrGaWI/edit?usp=sharing\n[2] https://photoscissors.com/ - Link: http://schoology.lsr7.org/assignment/4637514836
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210206T055900Z
+DTEND;VALUE=DATE-TIME:20210206T065900Z
+UID:calendar-event-4640783417@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4640783422
+SUMMARY:SRF 2/1
+DESCRIPTION:Head over to complete your assignment. A Day  Group (Complete  \nMonday-Tuesday) and B Group (Complete Thursday- Friday).  - Link: http://schoology.lsr7.org/assignment/4640783422
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210206T055900Z
+DTEND;VALUE=DATE-TIME:20210206T065900Z
+UID:calendar-event-4655731396@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4655731384
+SUMMARY:Slam choice assignment- in class (2/4)
+DESCRIPTION: \n\n \n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4655731384
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210206T055900Z
+DTEND;VALUE=DATE-TIME:20210206T065900Z
+UID:calendar-event-4649639868@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4649639819
+SUMMARY:Unit 4 (Part 2) REVIEW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4649639819
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210208T055900Z
+DTEND;VALUE=DATE-TIME:20210208T065900Z
+UID:calendar-event-4645666621@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4595841813
+SUMMARY:1.1.2 Media Influences Quiz
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4595841813
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210208T055900Z
+DTEND;VALUE=DATE-TIME:20210208T065900Z
+UID:calendar-event-4645200088@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4595841608
+SUMMARY:1.2.1 Goal Setting Action Plan
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4595841608
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210208T055900Z
+DTEND;VALUE=DATE-TIME:20210208T065900Z
+UID:calendar-event-4637488954@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4637488951
+SUMMARY:Hype Video Final Edit
+DESCRIPTION:*Complete your final Hype video.  Remember it must be 30\, 45 or 60 seconds  \nlong. *\n\n*Remember to add at least one piece of text using school colors.  *\n\n*Put the final video in your Google Drive and upload the link to Schoology*\n\n*Look at the scoring guide before submitting the project.* - Link: http://schoology.lsr7.org/assignment/4637488951
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210209T055900Z
+DTEND;VALUE=DATE-TIME:20210209T065900Z
+UID:calendar-event-4670967865@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4670967852
+SUMMARY:Assignment for 2/8
+DESCRIPTION: \n\n  - Link: http://schoology.lsr7.org/assignment/4670967852
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210209T055900Z
+DTEND;VALUE=DATE-TIME:20210209T065900Z
+UID:calendar-event-4654076350@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4654076300
+SUMMARY:Unit 4 (Part 2) Mini Test
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4654076300
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210209T055900Z
+DTEND;VALUE=DATE-TIME:20210209T065900Z
+UID:calendar-event-4668689346@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4668689348
+SUMMARY:Virtual Learning Day Assignment 2/8
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4668689348
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210209T210000Z
+DTEND;VALUE=DATE-TIME:20210209T220000Z
+UID:calendar-event-4673854881@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/course/4577491709/materials/discussion/view/4673854878
+SUMMARY:Discussion board for Choice Project
+DESCRIPTION:*After you have reviewed the 2 projects:  Sports Highlight OR Your Day in 60  \nSeconds\, answer the following questions in the discussion board.  Remember  \nyou will choose ONE.*\n\n*IF YOU CHOOSE THE SPORTS HIGHLIGHT ASSIGNMENT\, PART 1 EXERCISES 1 AND 2 ARE  \nDUE BY 3:00 TUESDAY.*\n\n*IF YOU CHOOSE YOUR DAY IN 60 SECONDS\, THE CAMERA/EDITING TECHNIQUES  \nASSIGNMENT IS DUE BY 3:OO TUESDAY.*\n\n*AFTER YOU HAVE COMPLETED THE ONE ASSIGNMENT ABOVE\, ANSWER THESE TWO  \nQUESTIONS. THIS IS YOUR ATTENDANCE GRADE FOR TUESDAY.*\n\n*1. Which project will you do?*\n\n*2.  What is one thing you learned by completing the first part of these  \nassignments?*\n\n* *\n\n*After you choose which assignment you will be doing\, I will individually  \nassign the projects.  *\n\n  - Link: http://schoology.lsr7.org/course/4577491709/materials/discussion/view/4673854878
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210210T055900Z
+DTEND;VALUE=DATE-TIME:20210210T065900Z
+UID:calendar-event-4634107503@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4634078611
+SUMMARY:Lesson 14 Plant Diversity Digital Activity
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4634078611
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210210T055900Z
+DTEND;VALUE=DATE-TIME:20210210T065900Z
+UID:calendar-event-4673941687@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4673938220
+SUMMARY:Touchscreen Delivery Assignment
+DESCRIPTION: My google doc comment did not show up so here is a screenshot.\n\n\n  - Link: http://schoology.lsr7.org/assignment/4673938220
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210210T055900Z
+DTEND;VALUE=DATE-TIME:20210210T065900Z
+UID:calendar-event-4672460791@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4672460785
+SUMMARY:Virtual Learning Day Assignment 2/9
+DESCRIPTION:*Record yourself singing and using hand signs with /audio and video/ in  \nSchoology measures 4-20.* /It is okay if it is not perfect!!!!/ Just practice  \nand give it your best shot! :) We are singing everything as one beat for the  \ntime being. \n\nUse the following link to both practice and record. You do NOT need to sing  \nthe entire song\, only the section mentioned above.\n\nhttps://youtu.be/swSwRQd9KZs  [1]\n\nThis is a review of previous work.\n\n \n\n \n\n \n\n \n\n \n\n \n\n\n\n[1] https://youtu.be/swSwRQd9KZs - Link: http://schoology.lsr7.org/assignment/4672460785
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210210T055900Z
+DTEND;VALUE=DATE-TIME:20210210T065900Z
+UID:calendar-event-4669301627@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4669301605
+SUMMARY:Wellness Inventory
+DESCRIPTION:*Carefully read the directions on this assignment.  You will need to make a  \ncopy of the document so you can write on it.  Be sure to score all three  \nsections and complete the analysis at the end.*\n\n \n\n \n\n \n\n  - Link: http://schoology.lsr7.org/assignment/4669301605
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210211T055900Z
+DTEND;VALUE=DATE-TIME:20210211T065900Z
+UID:calendar-event-4666535906@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4666535903
+SUMMARY:Film Techniques - Film Choice Project Part 1
+DESCRIPTION:*Open up the document and read through all techniques.  You will need to  \ndefine 3 new camera techniques and 5 editing techniques.  This is due  \nWednesday by midnight.  * - Link: http://schoology.lsr7.org/assignment/4666535903
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210211T055900Z
+DTEND;VALUE=DATE-TIME:20210211T065900Z
+UID:calendar-event-4673620096@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4673620089
+SUMMARY:Horizontal and Vertical Linear Relations HW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4673620089
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210212T055900Z
+DTEND;VALUE=DATE-TIME:20210212T065900Z
+UID:calendar-event-4679358106@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4679358082
+SUMMARY:Linear Data and Scatterplots HW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4679358082
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210213T055900Z
+DTEND;VALUE=DATE-TIME:20210213T065900Z
+UID:calendar-event-4674441690@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4595842021
+SUMMARY:1.3.1 Health Literacy and Skills Test
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4595842021
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210213T055900Z
+DTEND;VALUE=DATE-TIME:20210213T065900Z
+UID:calendar-event-4679361265@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4679361225
+SUMMARY:EOC Review #1
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4679361225
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210213T055900Z
+DTEND;VALUE=DATE-TIME:20210213T065900Z
+UID:calendar-event-4684991243@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4684991242
+SUMMARY:Totally serious\, non-funny\, absolutely legit Virtual Learning Assignment #3  \n(2/12)
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4684991242
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210215T055900Z
+DTEND;VALUE=DATE-TIME:20210215T065900Z
+UID:calendar-event-4679451679@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4679451648
+SUMMARY:Shot List for Film Project - Your Day in 60 Seconds
+DESCRIPTION:*Open up the template and begin planning your project.  Think about the  \ncamera and editing techniques you have learned and think about sequencing and  \nvariety.  * - Link: http://schoology.lsr7.org/assignment/4679451648
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210216T055900Z
+DTEND;VALUE=DATE-TIME:20210216T065900Z
+UID:calendar-event-4685035786@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4685035784
+SUMMARY:Turn SLAM poem in here
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4685035784
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210217T055900Z
+DTEND;VALUE=DATE-TIME:20210217T065900Z
+UID:calendar-event-4692280563@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4692280544
+SUMMARY:5.1 Exponential Vocab and the Product Property HW
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4692280544
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210217T055900Z
+DTEND;VALUE=DATE-TIME:20210217T065900Z
+UID:calendar-event-4691966203@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4691966208
+SUMMARY:AMI 2/16
+DESCRIPTION:LAST AMI DAY\, BABY! From here on out it's legit "snow" days!\n\nTHE WELLERMAN: Measures 18-25\n\nWrite in the solfege for YOUR part and submit a picture of your work. You can  \neither write it in your physical copy or use your Chromebook to annotate\,  \nhowever\, this will eventually need to end up in your physical copy one way or  \nanother. - Link: http://schoology.lsr7.org/assignment/4691966208
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210217T055900Z
+DTEND;VALUE=DATE-TIME:20210217T065900Z
+UID:calendar-event-4679326085@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4679320228
+SUMMARY:Lesson 15 Photosynthesis Lab
+DESCRIPTION:  [1]\n\n\n[1] https://docs.google.com/document/d/1qvlJ7lVzonW8t31swifk8_Y9qwx9GIteVu6mTQmyQqY/edit?ts=6022a9c4 - Link: http://schoology.lsr7.org/assignment/4679320228
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210217T055900Z
+DTEND;VALUE=DATE-TIME:20210217T065900Z
+UID:calendar-event-4691626746@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4691626749
+SUMMARY:Mass Incarceration Background Info
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4691626749
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210218T055900Z
+DTEND;VALUE=DATE-TIME:20210218T065900Z
+UID:calendar-event-4690552056@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/course/4577489921/materials/discussion/view/4595842069
+SUMMARY:Community Resources
+DESCRIPTION:Use the Internet and compile a list of 8-10 community resources that support  \nhealthy lifestyle behaviors.  Pick one of them and write a 5-6 sentence  \ndiscription of that organization.  Please pick something other than a  \nfitness center (gym) to write about. You will post your discription in this  \ndiscussion board. - Link: http://schoology.lsr7.org/course/4577489921/materials/discussion/view/4595842069
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20210216T225626Z
+DTSTART;VALUE=DATE-TIME:20210224T133000Z
+DTEND;VALUE=DATE-TIME:20210224T143000Z
+UID:calendar-event-4679331004@schoology.com
+URL;VALUE=URI:http://schoology.lsr7.org/assignment/4679320316
+SUMMARY:The Case of the Arctic's Missing Ice
+DESCRIPTION: - Link: http://schoology.lsr7.org/assignment/4679320316
+END:VEVENT
+END:VCALENDAR

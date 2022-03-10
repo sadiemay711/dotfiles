@@ -1,0 +1,38 @@
+#!/bin/bash
+
+export IDENTIFIER="unicode"
+
+cmus_stats () {
+    if ps -C cmus > /dev/null; then
+        POSITION=$(cmus-remote -Q | grep -a '^position' | awk '{gsub("position ", "");print}')
+        DURATION=$(cmus-remote -Q | grep -a '^duration' | awk '{gsub("duration ", "");print}')
+        SHUFFLE=$(cmus-remote -Q | grep -a '^set shuffle' | awk '{gsub("set shuffle ", "");print}')
+
+        if [ "$IDENTIFIER" = "unicode" ]; then
+            if [ "$STATUS" = "playing" ]; then
+                STATUS="▶"
+            else
+                STATUS="⏸"
+            fi
+
+            if [ "$SHUFFLE" = "true" ]; then
+                SHUFFLE=" "
+            else
+                SHUFFLE=" "
+            fi
+        else
+
+            if [ "$SHUFFLE" = "true" ]; then
+                SHUFFLE=" S"
+            else
+                SHUFFLE=""
+            fi
+        fi
+
+        printf "%0d:%02d/" $((POSITION%3600/60)) $((POSITION%60))
+        printf "%0d:%02d" $((DURATION%3600/60)) $((DURATION%60))
+        printf "%s%s" "$SHUFFLE"
+        fi
+}
+
+cmus_stats

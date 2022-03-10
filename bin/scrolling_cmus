@@ -1,0 +1,2 @@
+#!/bin/bash
+zscroll -n false -u true  "dwm_cmus.sh"

@@ -1,0 +1,1 @@
+optimus-manager --switch hybrid --no-confirm && kill -TERM $(pgrep -u $USER "\bspectrwm$") && nohup sudo prime-switch
