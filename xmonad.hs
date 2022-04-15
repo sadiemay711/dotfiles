@@ -137,6 +137,7 @@ myScratchPads :: [NamedScratchpad]
 myScratchPads = [ NS "terminal" spawnTerm findTerm manageTerm
                 , NS "pavucontrol" spawnPavu findPavu managePavu
                 , NS "weechat" spawnChat findChat manageChat
+                , NS "speedcrunch" spawnCrunch findCrunch manageCrunch
                 ]
   where
     spawnTerm  = myTerminal ++ " -n scratchpad"
@@ -159,6 +160,14 @@ myScratchPads = [ NS "terminal" spawnTerm findTerm manageTerm
     spawnChat = myTerminal ++ " -n weechat -e weechat"
     findChat = appName =? "weechat"
     manageChat = customFloating $ W.RationalRect l t w h 
+               where
+                   h = 0.9
+                   w = 0.9
+                   t = 0.95 -h
+                   l = 0.95 -w
+    spawnCrunch = "speedcrunch"
+    findCrunch = appName =? "speedcrunch"
+    manageCrunch = customFloating $ W.RationalRect l t w h 
                where
                    h = 0.9
                    w = 0.9
@@ -362,9 +371,11 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     , ((modMask, xK_z),
     spawn browser)
 
-    , ((modMask, xK_c),
+    , ((modMask, xK_e),
     namedScratchpadAction myScratchPads "weechat")
 
+    , ((modMask, xK_c),
+    namedScratchpadAction myScratchPads "speedcrunch")
     , ((modMask, xK_x),
     spawn "st lfrun")
 
