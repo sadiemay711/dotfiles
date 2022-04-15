@@ -10,11 +10,29 @@ vol="$(echo "$volstat" | grep '[0-9]\+%' | sed "s,.* \([0-9]\+\)%.*,\1,;1q")"
 
 icon=""
 
- if [ "$vol" -gt "70" ]; then
- 	icon="🔊"
- elif [ "$vol" -lt "30" ]; then
- 	icon="🔈"
+ if [ "$vol" -gt  "100" ]; then
+ 	icon="[##########]"
+ elif [ "$vol" -gt "90" ]; then
+ 	icon="[#########:]"
+ elif [ "$vol" -gt "80" ]; then
+ 	icon="[########::]"
+ elif [ "$vol" -gt "70" ]; then
+ 	icon="[#######:::]"
+ elif [ "$vol" -gt "60" ]; then
+ 	icon="[######::::]"
+ elif [ "$vol" -gt "50" ]; then
+ 	icon="[#####:::::]"
+ elif [ "$vol" -gt "40" ]; then
+ 	icon="[####::::::]"
+ elif [ "$vol" -gt "30" ]; then
+ 	icon="[###:::::::]"
+ elif [ "$vol" -gt "20" ]; then
+ 	icon="[##::::::::]"
+ elif [ "$vol" -gt  "10" ]; then
+ 	icon="[#:::::::::]"
+ elif [ "$vol" == "" ]; then
+ 	icon="[#:::::::::]"
  else
- 	icon="🔉"
+ 	icon=""
  fi
-printf $vol | dmenu -c -g 1 -l 1 
+echo "Volume:" $icon 

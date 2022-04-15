@@ -1,0 +1,32 @@
+#!/bin/sh
+
+bright="$(brightnessctl -m -d intel_backlight | awk -F, '{print substr($4, 0, length($4)-1)}')"
+
+icon=""
+
+ if [ "$bright" -gt  "100" ]; then
+ 	icon="[##########]"
+ elif [ "$bright" -gt "90" ]; then
+ 	icon="[#########:]"
+ elif [ "$bright" -gt "80" ]; then
+ 	icon="[########::]"
+ elif [ "$bright" -gt "70" ]; then
+ 	icon="[#######:::]"
+ elif [ "$bright" -gt "60" ]; then
+ 	icon="[######::::]"
+ elif [ "$bright" -gt "50" ]; then
+ 	icon="[#####:::::]"
+ elif [ "$bright" -gt "40" ]; then
+ 	icon="[####::::::]"
+ elif [ "$bright" -gt "30" ]; then
+ 	icon="[###:::::::]"
+ elif [ "$bright" -gt "20" ]; then
+ 	icon="[##::::::::]"
+ elif [ "$bright" -gt  "10" ]; then
+ 	icon="[#:::::::::]"
+ elif [ "$bright" == "" ]; then
+ 	icon="[#:::::::::]"
+ else
+ 	icon=""
+ fi
+echo "Brightness:" $icon 

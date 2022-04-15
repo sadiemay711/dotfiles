@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+rm /tmp/.volume-pipe
+
+_volume_pipe=/tmp/.volume-pipe
+[[ -S $_volume_pipe ]] || mkfifo $_volume_pipe

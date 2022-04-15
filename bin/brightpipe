@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+rm /tmp/.bright-pipe
+_bright_pipe=/tmp/.bright-pipe
+[[ -S $_bright_pipe  ]] || mkfifo $_bright_pipe

@@ -18,7 +18,8 @@ Config {
                                  ,"-l","#bbc2cf"
                                  ,"-n","#bbc2cf"
                                  ,"-h","#fb4934"] 50
-
+                    , Run PipeReader "/tmp/.volume-pipe" "vol_pipe"
+                    , Run PipeReader "/tmp/.bright-pipe" "bright_pipe"
                     , Run Date "%a %b %_d %H:%M:%S" "date" 10 
                     , Run DynNetwork ["-t","Down: <rx>, Up: <tx>"
                                      ,"-H","200"
@@ -26,15 +27,20 @@ Config {
                                      ,"-h","#bbc2cf"
                                      ,"-l","#bbc2cf"
                                      ,"-n","#bbc2cf"] 50
-
                     , Run CoreTemp ["-t", "Temp: <core0>°"
                                    , "-L", "30"
                                    , "-H", "75"
                                    , "-l", "lightblue"
                                    , "-n", "#bbc2cf"
                                    , "-h", "#aa4450"] 50
-
-                    -- battery monitor
+                    , Run Volume "default" "Master"
+                                            [ "-t", "<status>", "--"
+                                            , "--on", "<fc=#859900><fn=1>\xf028</fn> <volume>%</fc>"
+                                            , "--onc", "#859900"
+                                            , "--off", "<fc=#dc322f><fn=1>\xf026</fn> MUTE</fc>"
+                                            , "--offc", "#dc322f"
+                                            ] 10
+                    
                     , Run BatteryP       [ "BAT0" ]
                                          [ "--template" , "BAT: <acstatus>"
                                          , "--Low"      , "10"        -- units: %
@@ -42,10 +48,10 @@ Config {
                                          , "--low"      , "#fb4934" -- #ff5555
                                          , "--normal"   , "#bbc2cf"
                                          , "--high"     , "#98be65"
-
                                          , "--" -- battery specific options
                                                    -- discharging status
                                                    , "-o"   , "<left>% (<timeleft>)"
+                                                   , "-a"   , "notify-send -u critical Battery Depleted"
                                                    -- AC "on" status
                                                    , "-O"   , "<left>% (<fc=#98be65>Charging</fc>)" -- 50fa7b
                                                    -- charged status
@@ -55,5 +61,5 @@ Config {
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = "%StdinReader% } %date% { %cpu% | %coretemp% | %memory% | %battery% | %dynnetwork% |"   -- #69DFFA
+       , template = "%StdinReader% } %date% { %cpu% | %coretemp% | %memory% | %vol_pipe% |  %bright_pipe% |  %battery% | %dynnetwork% |"   -- #69DFFA
        }

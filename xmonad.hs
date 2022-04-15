@@ -120,9 +120,6 @@ myScreenshot = "maim pic-full-$(date '+%y%m%d-%H%M-%S').png"
 -- preset keybindings.
 myLauncher = "dmen"
 
-brightnessUp = "brightnessctl s +10%"
-
-brightnessDown = "brightnessctl s 10%-"
 
 browser = "firefox"
 ------------------------------------------------------------------------
@@ -356,10 +353,10 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
 
   -- Brightness up 
   , ((0, xF86XK_MonBrightnessUp),
-     spawn brightnessUp)
+     spawn "brightnessctl s +10% && brightness > /tmp/.bright-pipe")
 
   , ((0, xF86XK_MonBrightnessDown),
-     spawn brightnessDown)
+     spawn "brightnessctl s 10%- && brightness > /tmp/.bright-pipe")
      -- spawn scratchpad
   , ((modMask, xK_a),
    namedScratchpadAction myScratchPads "terminal")
@@ -393,15 +390,15 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
     spawn "displayselect")
   -- Mute volume.
   , ((0, xF86XK_AudioMute),
-     spawn "pulsemixer --toggle-mute")
+     spawn "pulsemixer --toggle-mute && volume > /tmp/.volume-pipe")
 
   -- Decrease volume.
   , ((0, xF86XK_AudioLowerVolume),
-     spawn "pulsemixer --change-volume -2")
+     spawn "pulsemixer --change-volume -2 && volume > /tmp/.volume-pipe")
 
   -- Increase volume.
   , ((0, xF86XK_AudioRaiseVolume),
-     spawn "pulsemixer --change-volume +2")
+     spawn "pulsemixer --change-volume +2 && volume > /tmp/.volume-pipe")
 
   -- Audio previous.
   , ((0, 0x1008FF16),
