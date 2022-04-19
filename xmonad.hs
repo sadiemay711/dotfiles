@@ -104,6 +104,7 @@ xmobarFgColor = fromXres "*.color7"
 -- certain contrib modules.
 --
 myTerminal = "st"
+myAltTerminal = "cool-retro-term"
 
 mySearch = "menu-surfraw"
 -- The command to lock the screen or show the screensaver.
@@ -338,6 +339,8 @@ myKeys conf@(XConfig {XMonad.modMask = modMask}) = M.fromList $
 
   , ((modMask .|. shiftMask, xK_space),
      spawn mySearch)
+  , ((modMask .|. altMask, xK_Return),
+     spawn myAltTerminal)
   -- Spawn the launcher using command specified by myLauncher.
   -- Use this to launch programs without a key binding.
   , ((modMask .|. shiftMask, xK_Return),
